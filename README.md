@@ -1,6 +1,6 @@
 <div align="center">
 
-### **Desenvolvedor Full Stack | Python | JavaScript | SQL | C# | HTML | CSS**
+### **Desenvolvedor Full Stack | Python | JavaScript | SQL | HTML | CSS**
 
 ---
 
