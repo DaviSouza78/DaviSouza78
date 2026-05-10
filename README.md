@@ -4,8 +4,8 @@
 
 ---
 
-<a href="https://curriculodavisouza.vercel.app/" target="_blank">
-  <img src="./previa-portfolio.png" alt="Prévia do meu Portfólio" width="800" style="border-radius: 10px; border: 1px solid #e2e8f0;">
+<a href="https://portifoliodavisouza.vercel.app/" target="_blank">
+  <img src="./Screenshot_1.png" alt="Prévia do meu Portfólio" width="800" style="border-radius: 10px; border: 1px solid #e2e8f0;">
 </a>
 <br>
 *(Clique na imagem para acessar o meu Portfólio completo)*
