@@ -2,7 +2,7 @@
 
 ![Davi Souza — Desenvolvedor Full Stack](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0891B2,100:22C55E&height=220&section=header&text=Davi%20Souza&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Desenvolvimento%20web%20%E2%80%A2%20Integra%C3%A7%C3%B5es%20%E2%80%A2%20Seguran%C3%A7a&descAlignY=57&descSize=18)
 
-[![Portfólio](https://img.shields.io/badge/PORTF%C3%93LIO-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://portifoliodavisouza.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/PORTF%C3%93LIO-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://davisouza-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0891B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-souza-b7456b3aa)
 [![E-mail](https://img.shields.io/badge/E--MAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davisouza4404@gmail.com)
 
